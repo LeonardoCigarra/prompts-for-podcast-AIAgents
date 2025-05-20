@@ -26,6 +26,15 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
+## 📌 Projetos em destaque
+
+[![Prompts Podcast AI](https://img.shields.io/badge/🎙️_Prompts_Podcast_AI-20232a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoCigarra/prompts-for-podcast-AIAgents)
+
+> Conjunto de *prompts* inteligentes para geração de roteiros de podcast com agentes de IA. Ideal para testes com LLMs e automações criativas.
+
+
+
+
 # Projeto Podcast Gerado por I.A.s
 
 
