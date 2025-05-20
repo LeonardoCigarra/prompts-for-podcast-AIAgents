@@ -1,8 +1,8 @@
 <p align="center">
-<img 
-    src="./assets/cover.png
+  <img 
+    src="./assets/CAPA.png" 
     width="300"
-/>
+  />
 </p>
 
 <p align="center">
