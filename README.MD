@@ -59,7 +59,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
       width=80 
       src="./assets/CAPA.png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspLeonardo Agapito<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/LeonardoCigarra/prompts-for-podcast-AIAgents">
